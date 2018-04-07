@@ -10,23 +10,23 @@
 
     <!-- Hotels Fragment-->
 
-    <string name="sablon_hotel">9Hotel Sablon</string>
+    <string name="sablon_hotel">9Hotel Sablon***</string>
     <string name="sablon_address">Brussels Center, Brussels</string>
     <string name="sablon_contact">003222</string>
 
-    <string name="noga_hotel">Hotel Noga</string>
+    <string name="noga_hotel">Hotel Noga**</string>
     <string name="noga_address">Brussels Center, Brussels</string>
     <string name="noga_contact">003222</string>
 
-    <string name="parkinn_hotel">Park Inn by Radisson</string>
+    <string name="parkinn_hotel">Park Inn by Radisson****</string>
     <string name="parkinn_address">Brussels Center, Brussels</string>
     <string name="parkinn_contact">003222</string>
 
-    <string name="holidayinn_hotel">Holiday Inn</string>
+    <string name="holidayinn_hotel">Holiday Inn****</string>
     <string name="holidayinn_address">Brussels Midi, Brussels</string>
     <string name="holidayinn_contact">003222</string>
 
-    <string name="crowneplaza_hotel">Crowne Plaza Hotel</string>
+    <string name="crowneplaza_hotel">Crowne Plaza Hotel****</string>
     <string name="crowneplaza_address">Brussels Schuman</string>
     <string name="crowneplaza_contact">0032222</string>
 
