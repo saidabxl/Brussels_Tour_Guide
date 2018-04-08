@@ -11,91 +11,91 @@
     <!-- Hotels Fragment-->
 
     <string name="sablon_hotel">9Hotel Sablon***</string>
-    <string name="sablon_address">Brussels Center, Brussels</string>
-    <string name="sablon_contact">003222</string>
+    <string name="sablon_address">Brussels Center</string>
+    <string name="sablon_contact">003222222222</string>
 
     <string name="noga_hotel">Hotel Noga**</string>
-    <string name="noga_address">Brussels Center, Brussels</string>
-    <string name="noga_contact">003222</string>
+    <string name="noga_address">Brussels Center</string>
+    <string name="noga_contact">003222222222</string>
 
-    <string name="parkinn_hotel">Park Inn by Radisson****</string>
-    <string name="parkinn_address">Brussels Center, Brussels</string>
-    <string name="parkinn_contact">003222</string>
+    <string name="parkinn_hotel">Park Inn****</string>
+    <string name="parkinn_address">Brussels Center</string>
+    <string name="parkinn_contact">003222222222</string>
 
     <string name="holidayinn_hotel">Holiday Inn****</string>
-    <string name="holidayinn_address">Brussels Midi, Brussels</string>
-    <string name="holidayinn_contact">003222</string>
+    <string name="holidayinn_address">Brussels Midi</string>
+    <string name="holidayinn_contact">003222222222</string>
 
-    <string name="crowneplaza_hotel">Crowne Plaza Hotel****</string>
+    <string name="crowneplaza_hotel">Crowne Plaza****</string>
     <string name="crowneplaza_address">Brussels Schuman</string>
-    <string name="crowneplaza_contact">0032222</string>
+    <string name="crowneplaza_contact">003222222222</string>
 
     <!-- Tours Fragment-->
 
 
-    <string name="brussels_chocolate">Brussels Chocolate Tastings</string>
+    <string name="brussels_chocolate">Chocolate Tastings</string>
     <string name="chocolate_address">Grand Place 21, 1000 Brussels</string>
-    <string name="chocolate_contact">0032222</string>
+    <string name="chocolate_contact">003222222222</string>
 
-    <string name="brussels_hop">Brussels Hop-On Hop-Off Tour</string>
-    <string name="brussels_hop_address">Manneken Pis Grand Place and 25 more</string>
-    <string name="brussels_hop_contact">0032222</string>
+    <string name="brussels_hop">Hop-On Hop-Off Tour</string>
+    <string name="brussels_hop_address">Manneken Pis Grand Place</string>
+    <string name="brussels_hop_contact">003222222222</string>
 
-    <string name="brussels_waffle">Brussels Waffle Workshop</string>
-    <string name="waffle_address">Grand Place Brussels Waffle Workshop</string>
-    <string name="waffle_contact">0032222</string>
+    <string name="brussels_waffle">Brussels Waffle</string>
+    <string name="waffle_address">Grand Place Brussels</string>
+    <string name="waffle_contact">003222222222</string>
 
-    <string name="food_beer">Brussels Food and Beer Walking Tour with Mussels and Chocolate</string>
-    <string name="food_beer_address">Manneken Pis Grand Place and 3 more</string>
-    <string name="foor_beer_contact">0032222</string>
+    <string name="food_beer">Food and Beer</string>
+    <string name="food_beer_address">Manneken Pis Grand Place</string>
+    <string name="foor_beer_contact">003222222222</string>
 
-    <string name="small_group">Small-Group Highlights of Brussels Bike Tour</string>
-    <string name="small_group_address">Manneken Pis Grand Place and 6 more</string>
-    <string name="small_group_contact">0032222</string>
+    <string name="small_group">Bike Tour</string>
+    <string name="small_group_address">Manneken Pis Grand Place</string>
+    <string name="small_group_contact">003222222222</string>
 
 
     <!-- Restaurants Fragment-->
 
     <string name="fin_de_siecle">Fin de siècle</string>
     <string name="fin_siecle_address">Rue des Chartreux 9, 1000 Bruxelles</string>
-    <string name="fin_siecle_contact">0032222</string>
+    <string name="fin_siecle_contact">003222222222</string>
 
     <string name="sea_grill">Sea Grill</string>
     <string name="sea_grill_address">Rue du Fossé aux Loups 47, 1000 Bruxelles</string>
-    <string name="sea_gril_contact">00322222</string>
+    <string name="sea_gril_contact">003222222222</string>
 
     <string name="pasta_divina">Pasta Divina</string>
     <string name="divina_address">Rue de la Montagne 16, 1000 Bruxelles</string>
-    <string name="divina_contact">0032222</string>
+    <string name="divina_contact">003222222222</string>
 
     <string name="chez_soi">Comme chez Soi</string>
     <string name="chezsoi_address">Place Rouppe 23, 1000 Bruxelles</string>
-    <string name="chezsoi_contact">0032222</string>
+    <string name="chezsoi_contact">003222222222</string>
 
     <string name="toukoul">Toukoul</string>
     <string name="toukoul_address">Brussels city</string>
-    <string name="toukoul_contact">0032222</string>
+    <string name="toukoul_contact">003222222222</string>
 
     <!-- Sites Fragment-->
 
     <string name="grand_place">Grand Place</string>
     <string name="grand_place_address">Brussels Main Square, Brussels 1000, Belgium</string>
-    <string name="grand_place_contact">0032222</string>
+    <string name="grand_place_contact">003222222222</string>
 
     <string name="coudenberg">Coudenberg</string>
     <string name="coudenberg_address">Place des Palais 7, 1000 Bruxelles</string>
-    <string name="coudenberg_contact">0032222</string>
+    <string name="coudenberg_contact">003222222222</string>
 
     <string name="mont_arts">Mont des Arts</string>
     <string name="mont_arts_address">Place des Palais 7, 1000 Bruxelles.</string>
-    <string name="mont_arts_contact">003222</string>
+    <string name="mont_arts_contact">003222222222</string>
 
     <string name="atomium">Atomium</string>
     <string name="atomium_address">Square de l\'Atomium, 1020 Bruxelles</string>
-    <string name="atomium_contact">0032222</string>
+    <string name="atomium_contact">003222222222</string>
 
     <string name="manneken_pis">Manneken Pis</string>
     <string name="manneken_address">1000 Brussels</string>
-    <string name="manneken_contact">0032222</string>
+    <string name="manneken_contact">003222222222</string>
 
 </resources>

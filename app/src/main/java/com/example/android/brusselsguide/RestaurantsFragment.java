@@ -9,18 +9,14 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-
-
-
 public class RestaurantsFragment extends Fragment {
     public RestaurantsFragment() {
     }
 
-    public static RestaurantsFragment  newInstance(){
+    public static RestaurantsFragment newInstance() {
         RestaurantsFragment fragment = new RestaurantsFragment();
         return fragment;
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

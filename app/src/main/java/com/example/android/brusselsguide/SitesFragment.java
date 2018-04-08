@@ -14,11 +14,10 @@ public class SitesFragment extends Fragment {
     public SitesFragment() {
     }
 
-    public static SitesFragment newInstance(){
+    public static SitesFragment newInstance() {
         SitesFragment fragment = new SitesFragment();
         return fragment;
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -41,5 +40,3 @@ public class SitesFragment extends Fragment {
         return rootView;
     }
 }
-
-

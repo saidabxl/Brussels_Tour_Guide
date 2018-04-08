@@ -13,11 +13,10 @@ public class HotelsFragment extends Fragment {
     public HotelsFragment() {
     }
 
-    public static HotelsFragment newInstance(){
+    public static HotelsFragment newInstance() {
         HotelsFragment fragment = new HotelsFragment();
         return fragment;
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -41,4 +40,3 @@ public class HotelsFragment extends Fragment {
 
     }
 }
-

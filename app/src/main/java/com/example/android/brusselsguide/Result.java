@@ -3,8 +3,6 @@ package com.example.android.brusselsguide;
 
 public class Result {
 
-
-
     private int mNameOfEstablishment;
 
     private int mEstablishmentLocation;
@@ -13,26 +11,26 @@ public class Result {
 
     private int mImageResourceId;
 
-    public Result(int nameOfEstablishment, int establishmentLocation, int establishmentContact, int imageResourceId){
+    public Result(int nameOfEstablishment, int establishmentLocation, int establishmentContact, int imageResourceId) {
         mNameOfEstablishment = nameOfEstablishment;
         mEstablishmentLocation = establishmentLocation;
         mEstablishmentContact = establishmentContact;
         mImageResourceId = imageResourceId;
     }
 
-    public int getNameOfEstablishment(){
+    public int getNameOfEstablishment() {
         return mNameOfEstablishment;
     }
 
-    public int getEstablishmentLocation(){
+    public int getEstablishmentLocation() {
         return mEstablishmentLocation;
     }
 
-    public int getEstablishmentContact(){
+    public int getEstablishmentContact() {
         return mEstablishmentContact;
     }
 
-    public int getmImageResourceId(){
+    public int getmImageResourceId() {
         return mImageResourceId;
     }
 }

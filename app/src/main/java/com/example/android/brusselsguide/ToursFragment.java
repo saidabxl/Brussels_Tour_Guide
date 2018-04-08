@@ -15,11 +15,10 @@ public class ToursFragment extends Fragment {
     public ToursFragment() {
     }
 
-    public static ToursFragment newInstance(){
+    public static ToursFragment newInstance() {
         ToursFragment fragment = new ToursFragment();
         return fragment;
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
